@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+
+       background-color: rgb(19, 226, 209);
+       display:flex;
+       justify-content:space-between;
+       
+    }
